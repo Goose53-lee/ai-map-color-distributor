@@ -1,4 +1,4 @@
-# 随机分配颜色 (Illustrator 空间均匀多色比例赋色工具)
+# ai-map-color-distributor（随机分配颜色）
 
 面向 Adobe Illustrator 矢量地图与批量图元的空间均匀多色按比例赋色脚本。在严格保证多色比例（默认 50% / 30% / 20%）的前提下，通过空间网格排序与微块误差扩散算法，避免纯随机带来的颜色扎堆、局部断流问题，适用于建筑群、集装箱堆场、网格区块等万级图元场景。
 
@@ -42,7 +42,7 @@
 ### 团队同步建议
 
 ```bash
-git clone https://github.com/Goose53-lee/-.git
+git clone https://github.com/Goose53-lee/ai-map-color-distributor.git
 ```
 
 日常更新直接拉取最新脚本即可：
