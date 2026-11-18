@@ -6,8 +6,6 @@
 
 ## 直接下载脚本
 
-团队成员无需拉取完整仓库，直接点击下方链接下载脚本文件即可：
-
 - **下载主脚本**：[随机分配颜色.jsx](https://raw.githubusercontent.com/Goose53-lee/ai-map-color-distributor/main/%E9%9A%8F%E6%9C%BA%E5%88%86%E9%85%8D%E9%A2%9C%E8%89%B2.jsx)（若浏览器直接打开文本，按 `Cmd+S` / `Ctrl+S` 保存为 `.jsx` 文件）
 - **仓库打包下载**：[Download ZIP](https://github.com/Goose53-lee/ai-map-color-distributor/archive/refs/heads/main.zip)
 
