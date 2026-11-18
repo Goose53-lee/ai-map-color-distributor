@@ -22,6 +22,8 @@
 2. 点击 **文件 > 脚本 > 随机分配颜色**。
 3. 选择 **浅色模式** 或 **深色模式**，按需修改 HEX 色值、分配比例与不透明度。
 4. 点击 **开始分配颜色**，等待进度条自动关闭。
+<img width="652" height="497" alt="image" src="https://github.com/user-attachments/assets/6a5fbc57-2678-495c-b948-03ca3025d932" />
+
 
 ## 默认色板与特性
 
